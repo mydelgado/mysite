@@ -1,5 +1,8 @@
 ---
 title: "Melissa Delgado"
+image: bdsc-logo-hex.png
+about: 
+  template: jolla
 ---
 
 This is a sample website for a Quarto lesson.
